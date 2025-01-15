@@ -1,0 +1,21 @@
+{
+  "name": "bufferfly_cocos",
+  "uuid": "5777ed4c-dc7b-41b1-9334-f3fc2b2f5317",
+  "version": "3.8.1",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "dependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "aws-sdk": "^2.1637.0",
+    "jsrsasign": "^11.1.0",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "protobufjs": "^7.2.6",
+    "qrcode": "^1.5.0",
+    "reconnecting-websocket": "^4.4.0"
+  },
+  "scripts": {
+    "protobuf": "npx pbjs -t static-module -w commonjs -o ./src/proto/player.js ./prot.proto && pbts -o ./src/proto/player.d.ts ./src/proto/player.js"
+  }
+}

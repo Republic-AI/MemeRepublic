@@ -1,0 +1,14 @@
+[
+  {
+    "id": 200,
+    "icon_path": "character/IconShirt/0",
+    "frame_path": "character/shirt/shirt_0",
+    "name": "pants"
+  },
+  {
+    "id": 201,
+    "icon_path": "character/IconShirt/1",
+    "frame_path": "character/shirt/shirt_1",
+    "name": "pants"
+  }
+]

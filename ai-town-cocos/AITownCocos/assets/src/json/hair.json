@@ -1,0 +1,26 @@
+[
+  {
+    "id": 100,
+    "icon_path": "character/IconHair/man/0",
+    "frame_path": "character/hair/man_0",
+    "name": "hair"
+  },
+  {
+    "id": 101,
+    "icon_path": "character/IconHair/man/1",
+    "frame_path": "character/hair/man_1",
+    "name": "hair"
+  },
+  {
+    "id": 102,
+    "icon_path": "character/IconHair/woman/0",
+    "frame_path": "character/hair/woman_0",
+    "name": "hair"
+  },
+  {
+    "id": 103,
+    "icon_path": "character/IconHair/woman/1",
+    "frame_path": "character/hair/woman_1",
+    "name": "hair"
+  }
+]

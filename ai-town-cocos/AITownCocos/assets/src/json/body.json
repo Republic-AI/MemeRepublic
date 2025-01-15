@@ -1,0 +1,32 @@
+[
+    {
+      "id": 900,
+      "icon_path": "character/character_body",
+      "frame_path": "character/character_body",
+      "name": "body"
+    },
+    {
+      "id": 10002,
+      "icon_path": "character/npc/farmer",
+      "frame_path": "character/npc/farmer",
+      "name": "body"
+    },
+    {
+      "id": 10003,
+      "icon_path": "character/npc/grocer",
+      "frame_path": "character/npc/grocer",
+      "name": "body"
+    },
+    {
+      "id": 10004,
+      "icon_path": "character/npc/herdman",
+      "frame_path": "character/npc/herdman",
+      "name": "body"
+    },
+    {
+      "id": 10005,
+      "icon_path": "character/npc/baker",
+      "frame_path": "character/npc/baker",
+      "name": "body"
+    }
+]

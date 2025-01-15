@@ -1,0 +1,98 @@
+[
+  {
+    "name": "代币(储蓄/交易）",
+    "bag": 1,
+    "des": "NPC用于日常交易。通过工作赚钱，花在食物等必需品上",
+    "icon": "item_10101000",
+    "subtype": 1,
+    "id": 10101000,
+    "dropType": [
+      0
+    ],
+    "kind": 1
+  },
+  {
+    "name": "大麦",
+    "bag": 1,
+    "des": "大麦[农夫]",
+    "icon": "item_10101001",
+    "subtype": 1,
+    "id": 10101001,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  },
+  {
+    "name": "玉米",
+    "bag": 1,
+    "des": "玉米[农夫]",
+    "icon": "item_10101002",
+    "subtype": 1,
+    "id": 10101002,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  },
+  {
+    "name": "蔬菜",
+    "bag": 1,
+    "des": "蔬菜[农夫]",
+    "icon": "item_10101003",
+    "subtype": 1,
+    "id": 10101003,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  },
+  {
+    "name": "牛奶",
+    "bag": 1,
+    "des": "牛奶[牧民]",
+    "icon": "item_10101004",
+    "subtype": 1,
+    "id": 10101004,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  },
+  {
+    "name": "牛肉",
+    "bag": 1,
+    "des": "牛肉[牧民]",
+    "icon": "item_10101005",
+    "subtype": 1,
+    "id": 10101005,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  },
+  {
+    "name": "面包",
+    "bag": 1,
+    "des": "面包[面包师]",
+    "icon": "item_10101006",
+    "subtype": 1,
+    "id": 10101006,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  },
+  {
+    "name": "糕点",
+    "bag": 1,
+    "des": "糕点[面包师]",
+    "icon": "item_10101007",
+    "subtype": 1,
+    "id": 10101007,
+    "dropType": [
+      0
+    ],
+    "kind": 2
+  }
+]
